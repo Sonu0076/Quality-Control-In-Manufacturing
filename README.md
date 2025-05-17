@@ -6,11 +6,11 @@ A web-based solution to monitor, manage, and improve product quality in manufact
 
 # Features
 •	Dashboard for Quality Metrics: View defect rates, inspection outcomes, and production trends.
-•	Real-time Data Visualization: Charts and graphs displaying ongoing quality control performance.
-•	Batch Analysis: Track and evaluate manufacturing batches for consistency.
-•	Alerts & Notifications: Get notified when metrics cross predefined thresholds.
-•	Inspection Reports: Upload and review quality inspection documentation.
-•	Role-based Access Control: Separate views and privileges for QC inspectors, supervisors, and admins.
+       •	Real-time Data Visualization: Charts and graphs displaying ongoing quality control performance.
+       •	Batch Analysis: Track and evaluate manufacturing batches for consistency.
+       •	Alerts & Notifications: Get notified when metrics cross predefined thresholds.
+       •	Inspection Reports: Upload and review quality inspection documentation.
+       •	Role-based Access Control: Separate views and privileges for QC inspectors, supervisors, and admins.
 
 ⸻
 
