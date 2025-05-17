@@ -5,7 +5,7 @@ A web-based solution to monitor, manage, and improve product quality in manufact
 ⸻
 
 #Features
-	•	Dashboard for Quality Metrics: View defect rates, inspection outcomes, and production trends.
+        •	Dashboard for Quality Metrics: View defect rates, inspection outcomes, and production trends.
 	•	Real-time Data Visualization: Charts and graphs displaying ongoing quality control performance.
 	•	Batch Analysis: Track and evaluate manufacturing batches for consistency.
 	•	Alerts & Notifications: Get notified when metrics cross predefined thresholds.
@@ -25,18 +25,20 @@ A web-based solution to monitor, manage, and improve product quality in manufact
 	•	Bootstrap / Tailwind CSS (UI styling)
 
 #Backend (optional if included)
+
 	•	Node.js + Express.js or Python + Flask/Django
 	•	MongoDB / PostgreSQL
 	•	REST API or GraphQL
 #Frontend Setup Instructions
-	1.	Clone the Repository
- git clone https://github.com/your-username/quality-control-manufacturing.git
-cd quality-control-manufacturing/frontend
-2.	Install Dependencies
+
+1.	Clone the Repository
+2.  git clone https://github.com/your-username/quality-control-manufacturing.git
+   cd quality-control-manufacturing/frontend
+             nstall Dependencies
 npm insatall
-3.	Start the Development Server
+4.	Start the Development Server
 npm start
-4.	Open in Browser
+5.	Open in Browser
 Navigate to http://localhost:3000 to view the app.
 
 Make sure your backend is running and accessible if the frontend relies on an API.
